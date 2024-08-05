@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/black-domon">Fayruz Achmad Al Farros</a></h1>
-<h3 align="center">A passionate web developer from Besuk, Probolinggo, Indonesia</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/hebat-ok">Fayruz Achmad Al Farros</a></h1>
+<h3 align="center">A passionate web developer from Pakuniran, Probolinggo, Indonesia</h3>
 <img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, vue, laravel, and django**
 
-- 📫 How to reach me **jakfar.ilham23@gmail.com**
+- 📫 How to reach me **fayruz091@gmail.com**
 
 - WhatsApp or Mobile Phone Number **+62-8222-9062-398**
 
